@@ -1,6 +1,6 @@
-Some stuff in here
+Day 07 Daily Challenge and Take Home
 
-# Bootstrap Boilerplate
+# Parallax Practice Page
 
 **Author** Bear J Cameron
 
